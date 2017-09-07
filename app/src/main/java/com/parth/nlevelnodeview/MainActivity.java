@@ -103,11 +103,6 @@ public class MainActivity extends AppCompatActivity {
             NNode bodes = new NNode(comment.getString());
             childCallback.setListNode(comment.getArray(), bodes);
             root.addChild(bodes);
-
-            // todo remove this custom adapter code from library at publishing it
-//            NNode levels = new NNode(new NodeHolderAdapter.NodeHolder(comment.getString())).setViewHolder(new NodeHolderAdapter(this));
-//            childCallback.setListNode(comment.getArray(), levels);
-//            root.addChild(levels);
         }
     }
 
