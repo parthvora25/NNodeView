@@ -1,0 +1,110 @@
+{
+    "key": "Objects",
+    "array": [
+              {
+              "key": [
+                      "name",
+                      "level",
+                      "Objects"
+                      ],
+              "string": "0 - One",
+              "integer": "0",
+              "array": [
+                        {
+                        "key": [
+                                "name",
+                                "level",
+                                "Objects"
+                                ],
+                        "string": "1- One-One",
+                        "integer": "1",
+                        "array": [
+                                  {
+                                  "key": [
+                                          "name",
+                                          "level",
+                                          "Objects"
+                                          ],
+                                  "string": "2- One-Two",
+                                  "integer": "2",
+                                  "array": [
+                                            {
+                                            "key": [
+                                                    "name",
+                                                    "level",
+                                                    "Objects"
+                                                    ],
+                                            "string": "3- One-Three",
+                                            "integer": "3",
+                                            "array": [
+                                                      {
+                                                      "key": [
+                                                              "name",
+                                                              "level"
+                                                              ],
+                                                      "string": "4- One-Four",
+                                                      "integer": "4"
+                                                      }
+                                                      ]
+                                            }
+                                            ]
+                                  }
+                                  ]
+                        }
+                        ]
+              },
+              {
+              "key": [
+                      "name",
+                      "level",
+                      "Objects"
+                      ],
+              "string": "0 - Two",
+              "integer": "0",
+              "array": [
+                        {
+                        "key": [
+                                "name",
+                                "level",
+                                "Objects"
+                                ],
+                        "string": "1- Two-One",
+                        "integer": "1",
+                        "array": [
+                                  {
+                                  "key": [
+                                          "name",
+                                          "level",
+                                          "Objects"
+                                          ],
+                                  "string": "2- Two-Two",
+                                  "integer": "2",
+                                  "array": [
+                                            {
+                                            "key": [
+                                                    "name",
+                                                    "level",
+                                                    "Objects"
+                                                    ],
+                                            "string": "3- Two-Three",
+                                            "integer": "3",
+                                            "array": [
+                                                      {
+                                                      "key": [
+                                                              "name",
+                                                              "level"
+                                                              ],
+                                                      "string": "4- Two-Four",
+                                                      "integer": "4"
+                                                      }
+                                                      ]
+                                            }
+                                            ]
+                                  }
+                                  ]
+                        }
+                        ]
+              }
+              ]
+}
+

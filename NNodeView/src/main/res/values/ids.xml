@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="node_head" type="id" />
+    <item name="node_views" type="id" />
+    <item name="child_item" type="id" />
+</resources>

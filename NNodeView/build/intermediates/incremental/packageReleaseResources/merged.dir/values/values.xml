@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="child_item" type="id"/>
+    <item name="node_head" type="id"/>
+    <item name="node_views" type="id"/>
+    <style name="NNodeViewStyle">
+        <item name="android:paddingLeft">20dp</item>
+    </style>
+</resources>
